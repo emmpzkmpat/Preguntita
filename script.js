@@ -23,4 +23,3 @@ noBtn.addEventListener('touchstart', moverBoton);
 function mostrarMensaje() {
     alert('¡Ya lo sabía!');
 }
-
