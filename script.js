@@ -19,3 +19,8 @@ noBtn.addEventListener('mouseover', moverBoton);
 // Añade el evento para mover el botón cuando se toca (para dispositivos móviles)
 noBtn.addEventListener('touchstart', moverBoton);
 
+// Función para mostrar el mensaje cuando se presiona el botón "Sí"
+function mostrarMensaje() {
+    alert('¡Ya lo sabía!');
+}
+
